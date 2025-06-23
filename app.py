@@ -1,5 +1,3 @@
-def hello_world();
-	return "Hi Sam"
-
-	if __name__ ==  "__main__":
-		print(hello_world())
+def hello_world():
+    """Return a hello world message."""
+    return "Hello, World!"
